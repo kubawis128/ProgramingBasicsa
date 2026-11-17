@@ -1,0 +1,3 @@
+# Checks if the user input is correct (returns True or False) and prints it out
+def verify(user_input):
+    ...

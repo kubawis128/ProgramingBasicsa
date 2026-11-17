@@ -1,0 +1,3 @@
+## Returns a 4 digit pin code as a string for user to guess
+def engine_rnd():
+    ...
